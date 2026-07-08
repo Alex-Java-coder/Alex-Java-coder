@@ -51,4 +51,3 @@ Issued June 2026
 
 [![Java Developer Professional](https://img.shields.io/badge/Java_Developer_Professional-JavaRush_Certificate-C71A36??style=for-the-badge&logo=spring&logoColor=white)](https://certificate.javarush.com/aleksei_bochkarev.pdf)
 
----
